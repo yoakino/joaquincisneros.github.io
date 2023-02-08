@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../programacion"
+		},
+		{
+			"path": "../Nueva carpeta"
+		},
+		{
+			"path": "../cv-version"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cv-version"
+	}
+}
