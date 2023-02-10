@@ -2,7 +2,7 @@
   document.getElementById("demo").onclick = function() {myFunction()};
     
   function myFunction() {
-      document.body.style.backgroundColor = "#7F89ED"
+      document.body.style.backgroundColor = "#64F03E"
   }
 
   document.getElementById("demo").onclick = function() {colorDefault()};
